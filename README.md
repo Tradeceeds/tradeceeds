@@ -1,2 +1,1 @@
-# tradeceeds
-Tradeceeds API
+# Tradeceeds API
