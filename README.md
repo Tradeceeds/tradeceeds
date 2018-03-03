@@ -10,7 +10,7 @@ apikey | Your API Key
 btsacct| Bitshares Account Name
 callbackurl | Where to post results
 
-Send POST request to https://tradeceeds.com/bitcoin/generate_address.php
+Send POST request to https://tradeceeds.com/bitcoin/
 
 Output
 
