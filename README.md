@@ -1,6 +1,6 @@
 # Tradeceeds API
 
-## Request Bitcoin Address linked to your Bitshares Account Name
+## Request Bitcoin Address to link to a Bitshares Account Name
 
 Input via POST
 
