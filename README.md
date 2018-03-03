@@ -21,7 +21,6 @@ btcaddr | Bitcoin Address linked to your Bitshares Address
 btsacct| Bitshares Account Name
 
 
-
 ## Transfer Request
 
 Inputs via POST request
@@ -50,3 +49,5 @@ success | Provides information whether your request was successfully processed
 trxhash | Transaction Hash of your Bitcoin Transfer
 sandbox | Sandbox status
 transid | Related Transaction ID on the Bitshares Blockchain
+
+Please report [**Issues**](https://github.com/Tradeceeds/tradeceeds/issues) immediately.
