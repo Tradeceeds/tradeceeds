@@ -1,4 +1,4 @@
-# Tradeceeds API
+# Tradeceeds API (Beta)
 
 ## Request Bitcoin Address to link to a Bitshares Account Name
 
