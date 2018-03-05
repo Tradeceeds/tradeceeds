@@ -2,10 +2,10 @@
 # Tradeceeds API (Beta)
 Our transfer request service allows you to transfer qualified bitshares assets (listed below) to other blockchains.
 
-| Bitshares Asset |Blockchain  |
-|--|--|
-| BTCCORE |Bitcoin  |
-| ETHERIA|Ethereum|
+| Bitshares Asset |Blockchain  | Keyword on memo
+|--|--|--|
+| BTCCORE |Bitcoin  | btccx
+| ETHERIA|Ethereum| ethcx
 
 This preliminary release is on beta version. Please report [**Issues**](https://github.com/Tradeceeds/tradeceeds/issues) immediately.
 
