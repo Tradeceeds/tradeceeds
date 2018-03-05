@@ -7,6 +7,8 @@ Our transfer request service allows you to transfer qualified bitshares assets (
 | BTCCORE |Bitcoin  | btccx
 | ETHERIA|Ethereum| ethcx
 
+BTCCORE is also available at bitpalbts.com
+
 This preliminary release is on beta version. Please report [**Issues**](https://github.com/Tradeceeds/tradeceeds/issues) immediately.
 
 ## Request Bitcoin Address to link to a Bitshares Account Name
@@ -29,7 +31,7 @@ success | Status of request
 btcaddr | Bitcoin Address linked to your Bitshares Address
 btsacct| Bitshares Account Name
 
-**NOTICE TO BTCCORE OWNERS**
+**NOTICE TO BTCCORE HOLDERS**
 
 *Once you have received your bitcoin address, initialize it by depositing **at least 0.01 BTC**. Each address or bitshares account is qualified to make a transfer request from a minimum of 0.00001 up to 3 times the total amount received by the linked bitcoin address. Do not request if you have never funded your account.*
 
