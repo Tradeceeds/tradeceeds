@@ -4,7 +4,7 @@ Our transfer request service allows you to transfer qualified bitshares assets (
 
 | Bitshares Asset |Blockchain  | Keyword on memo
 |--|--|--|
-| BTCCORE |Bitcoin  | btccx
+| BTCCORE |Bitcoin Core  | btccx
 | ETHERIA|Ethereum| ethcx
 
 BTCCORE is also available at bitpalbts.com
