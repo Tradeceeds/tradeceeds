@@ -1,6 +1,6 @@
 
 # Tradeceeds API (Beta)
-Our transfer request service allows you to transfer qualified bitshares assets (listed below) to other blockchains.
+Our transfer request service allows you to transfer qualified bitshares assets (listed below) to other blockchains. Each transfer request shall receive the exact asset on their respective blockchain at 1:1.
 
 | Bitshares Asset |Blockchain  | Keyword on memo
 |--|--|--|
